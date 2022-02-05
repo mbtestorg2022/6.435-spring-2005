@@ -4,29 +4,321 @@ title: Calendar
 uid: 04354357-9532-4db3-76d0-006a5e57834d
 ---
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Review of Linear Systems, Review of Stochastic Processes, Defining a General Framework |  |
-| 2 | Review of Linear Systems, Review of Stochastic Processes, Defining a General Framework (cont.) |  |
-| 3 | Introductory Examples for System Identification | Problem set 1 out |
-| 4 | Introductory Examples for System Identification (cont.) |  |
-| 5 | Nonparametric Identification |  |
-| 6 | Nonparametric Identification (cont.) | Problem set 1 due |
-| 7 | Input Design, Persistence of Excitation, Pseudo-random Sequences | Problem set 2 out |
-| 8 | Input Design, Persistence of Excitation, Pseudo-random Sequences (cont.) |  |
-| 9 | Least Squares, Statistical Properties |  |
-| 10 | Least Squares, Statistical Properties (cont.) |  {{< br >}}{{< br >}} Problem set 2 due {{< br >}}{{< br >}} Problem set 3 out {{< br >}}{{< br >}}  |
-| 11 | Parametrized Model Structures, One-step Predictor, Identifiability |  |
-| 12 | Parametrized Model Structures, One-step Predictor, Identifiability (cont.) |  |
-| 13 | Parameter Estimation Methods, Minimum Prediction Error Paradigm, Maximum Likelihood |  {{< br >}}{{< br >}} Problem set 3 due {{< br >}}{{< br >}} Problem set 4 out {{< br >}}{{< br >}}  |
-| 14 | Parameter Estimation Methods, Minimum Prediction Error Paradigm, Maximum Likelihood (cont.) |  |
-| 15 | Convergence and Consistency, Informative Data, Convergence to the True Parameters |  |
-| 16 | Convergence and Consistency, Informative Data, Convergence to the True parameters (cont.) | Problem set 4 due |
-| 17 | Asymptotic Distribution of PEM |  |
-| 18 | Asymptotic Distribution of PEM (cont.) |  |
-| 19 | Instrumental Variable Methods, Identification in Closed Loop, Asymptotic Results |  |
-| 20 | Instrumental Variable Methods, Identification in Closed Loop, Asymptotic Results (cont.) | Problem set 5 out |
-| 21 | Computation, Levinson Algorithm, Recursive Estimation |  |
-| 22 | Computation, Levinson Algorithm, Recursive Estimation (cont.) |  |
-| 23 | Identification in Practice, Error Filtering, Order Estimation, Model Structure Validation, Examples | Problem set 5 due |
-| 24 | Identification in Practice, Error Filtering, Order Estimation, Model Structure Validation, Examples (cont.) |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Review of Linear Systems, Review of Stochastic Processes, Defining a General Framework
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Review of Linear Systems, Review of Stochastic Processes, Defining a General Framework (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Introductory Examples for System Identification
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Introductory Examples for System Identification (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Nonparametric Identification
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Nonparametric Identification (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Input Design, Persistence of Excitation, Pseudo-random Sequences
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Input Design, Persistence of Excitation, Pseudo-random Sequences (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Least Squares, Statistical Properties
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Least Squares, Statistical Properties (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 2 due
+
+Problem set 3 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Parametrized Model Structures, One-step Predictor, Identifiability
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Parametrized Model Structures, One-step Predictor, Identifiability (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Parameter Estimation Methods, Minimum Prediction Error Paradigm, Maximum Likelihood
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 3 due
+
+Problem set 4 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Parameter Estimation Methods, Minimum Prediction Error Paradigm, Maximum Likelihood (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Convergence and Consistency, Informative Data, Convergence to the True Parameters
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Convergence and Consistency, Informative Data, Convergence to the True parameters (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Asymptotic Distribution of PEM
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Asymptotic Distribution of PEM (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Instrumental Variable Methods, Identification in Closed Loop, Asymptotic Results
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Instrumental Variable Methods, Identification in Closed Loop, Asymptotic Results (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 5 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Computation, Levinson Algorithm, Recursive Estimation
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Computation, Levinson Algorithm, Recursive Estimation (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Identification in Practice, Error Filtering, Order Estimation, Model Structure Validation, Examples
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Identification in Practice, Error Filtering, Order Estimation, Model Structure Validation, Examples (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
